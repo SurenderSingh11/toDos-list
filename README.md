@@ -1,0 +1,1 @@
+This project is a simple toDo list project by Surender Singh which enlists all your day to day todo works as a reminder which u can look up to so that u wont forget or miss a work.
